@@ -4,12 +4,6 @@ A stylish sidebar navigation menu built using **HTML** and **CSS**, featuring sm
 
 ---
 
-## 🌐 Live Preview
-
-> *(Optional: Add a link to GitHub Pages or Netlify)*
-
----
-
 ## 📸 Overview
 
 - 📷 Full-screen background image (`photo.jpg`)
@@ -30,15 +24,13 @@ A stylish sidebar navigation menu built using **HTML** and **CSS**, featuring sm
 ---
 
 ## 📁 Project Structure
-
+```
 sidebar-menu-css/
 ├── index.html # Main HTML page
 ├── style.css # Styling and layout
 └── photo.jpg # Background image
+```
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -52,26 +44,23 @@ Open index.html in your browser.
 
 That’s it — no server or dependencies required.
 
-✨ Features
-✅ Checkbox-based sidebar toggle (no JavaScript)
+---
 
-✅ Iconic menu items (Gallery, Events, Store, etc.)
+## ✨ Features
+   - Checkbox-based sidebar toggle (no JavaScript)
+   - Iconic menu items (Gallery, Events, Store, etc.)
+   - Social media footer section
+   - Hover animations and opacity transitions
+   - Smooth UI behavior
+   
+---
 
-✅ Social media footer section
+## 🔧 Customization Tips
+   - Replace photo.jpg in the style.css with your own background
+   - Update menu labels or links in index.html
+   - Modify color schemes or shadows in style.css for a custom theme
 
-✅ Hover animations and opacity transitions
+---
 
-✅ Smooth UI behavior
-
-🔧 Customization Tips
-Replace photo.jpg in the style.css with your own background
-
-Update menu labels or links in index.html
-
-Modify color schemes or shadows in style.css for a custom theme
-
-🖼️ Screenshot
-(Optional: Add the image you uploaded or use a markdown tag to show photo.jpg)
-
-📄 License
+## 📄 License
 This project is open-source under the MIT License.
